@@ -1,1 +1,0 @@
-# Get-Reservation-Properties-from-vRA-Businessgroup
